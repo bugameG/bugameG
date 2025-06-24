@@ -17,6 +17,6 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://worldvectorlogo.com/downloaded/r-studio-1.svg" alt="R" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://techicons.dev/icons/rstudio.svg" alt="R" width="40" height="40"/> </a> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bugameg&show_icons=true&locale=en&layout=compact" alt="bugameg" /></p>
