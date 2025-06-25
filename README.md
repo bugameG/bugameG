@@ -1,18 +1,64 @@
-# 💫 About Me:
-Hello. I'm Gift Pamba. <br>An Applied Statistician based in Kenya.
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnVlamczNW1yMHV1emdsNW11a2w0Ynp2ZWV2ZW4ydTRhMzB1NTBjbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif"  />
+</div>
 
+###
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gift-bugame-pamba) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@bugameG) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:giftbugame@yahoo.com) 
+<div align="center">
+  <a href="https://www.linkedin.com/in/gift-bugame-pamba" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/bugameG" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
+</div>
 
-# 💻 Tech Stack:
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=bugameG&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=bugameG&theme=github_dark_dimmed&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bugameG&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+###
 
----
-[![](https://visitcount.itsvg.in/api?id=bugameG&icon=5&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=bugameG.bugameG&"  />
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+###
+
+<h1 align="center">Hello there 👋</h1>
+
+###
+
+<h3 align="left">I am Gift Pamba</h3>
+
+###
+
+<p align="left">An Applied Statistician based  in Kenya.<br><br>-  I’m working on Kenyan-based Statistical projects 💼<br>- Currently advancing my knowledge in R . Looking forward to learn Python.<br><br>- I look forward to collaborating with others on real-world data-based projects that can make an impact</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="rstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spss/spss-original.svg" height="40" alt="spss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40" alt="latex logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<h3 align="left"></h3>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bugameG&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2&custom_title=Languages" height="150" alt="languages graph"  />
+</div>
+
+###
