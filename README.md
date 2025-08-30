@@ -56,7 +56,7 @@
 
 
 <div align="center">
-  <img height="150" src=github_wordcloud.gif  />
+  <img width="400" height="200" src=github_wordcloud.gif  />
 
 </div>
 
