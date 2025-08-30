@@ -3,7 +3,12 @@
 
 </div>
 
+<br clear="both">
 
+<div align="center">
+  <img height="150" src=github_wordcloud.gif  />
+
+</div>
 
 
 ###
@@ -54,11 +59,6 @@
 </div>
 
 
-
-<div align="center">
-  <img width="400" height="200" src=github_wordcloud.gif  />
-
-</div>
 
 ###
 
