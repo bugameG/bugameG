@@ -1,8 +1,6 @@
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnVlamczNW1yMHV1emdsNW11a2w0Ynp2ZWV2ZW4ydTRhMzB1NTBjbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif"  />
-  <img height="150"
-src="https://drive.google.com/file/d/1cC5RXbwqC9iYEkQfVC1iVjcOp7ku86ds/view?usp=sharing"  />
-
+ 
 </div>
 
 ###
