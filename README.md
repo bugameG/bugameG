@@ -2,9 +2,11 @@
   <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnVlamczNW1yMHV1emdsNW11a2w0Ynp2ZWV2ZW4ydTRhMzB1NTBjbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif"  />
 </div>
 
+<div align="left">
+  <img height="150" src="github_wordcloud.gif"  />
+</div>
 
 
-![](github_wordcloud.gif)
 
 ###
 
