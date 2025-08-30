@@ -5,7 +5,7 @@
 
 
 
-<div align="rigth">
+<div align="right">
   <img height="150" src=github_wordcloud.gif  />
 
 </div>
