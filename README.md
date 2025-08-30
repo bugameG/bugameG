@@ -3,7 +3,7 @@
 </div>
 
 <div align="right">
-  <img height="350" src="github_wordcloud.gif"  />
+  <img height="150" src="github_wordcloud.gif"  />
 </div>
 
 
