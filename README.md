@@ -38,7 +38,7 @@
 
 ###
 
-<p align="left">An Applied Statistician based in Kenya 📊🇰🇪 <br><br>- Looking to solve problems through research 🔍 <br>- R enthusiast . 🚀<br><br>- I look forward to collaborating with others on real-world data-based projects that can make an impact 🤝📈</p>
+<p align="left">An Applied Statistician based in Kenya 📊🇰🇪 <br><br> Looking to solve problems through evidence-based research 🔍 <br>R enthusiast . 🚀<br><br>- I look forward to collaborating with others on real-world data-based projects that can make an impact 🤝📈</p>
 
 ###
 
