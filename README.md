@@ -5,11 +5,6 @@
 
 
 
-<div align="right">
-  <img height="150" src=github_wordcloud.gif  />
-
-</div>
-
 
 ###
 
@@ -58,6 +53,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40" alt="latex logo"  />
 </div>
 
+
+<div align="right">
+  <img height="150" src=github_wordcloud.gif  />
+
+</div>
 
 
 ###
