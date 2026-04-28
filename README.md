@@ -1,4 +1,4 @@
-<div align="left">
+<div align="center">
   <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnVlamczNW1yMHV1emdsNW11a2w0Ynp2ZWV2ZW4ydTRhMzB1NTBjbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif"  />
 
 </div>
@@ -29,15 +29,15 @@
 
 ###
 
-<h3 align="left">I am Gift Pamba</h3>
+<h3 align="center">I am Gift Pamba</h3>
 
 ###
 
-<p align="left">An Applied Statistician based in Kenya 📊🇰🇪 <br><br> Looking to solve problems through evidence-based research 🔍 <br>R enthusiast . 🚀<br><br>- I look forward to collaborating with others on real-world data-based projects that can make an impact 🤝📈</p>
+<p align="center">An Applied Statistician based in Kenya 📊🇰🇪 <br><br> Looking to solve problems through evidence-based research 🔍 <br>R enthusiast . 🚀<br><br>- I look forward to collaborating with others on real-world data-based projects that can make an impact 🤝📈</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="center">🛠 Language and tools</h3>
 
 ###
 
