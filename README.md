@@ -41,7 +41,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="rstudio logo"  />
@@ -54,7 +54,7 @@
 </div>
 
 
-<div align="right">
+<div align="center">
   <img height="150" src=github_wordcloud.gif  />
 
 </div>
@@ -64,11 +64,11 @@
 
 <br clear="both">
 
-<h3 align="left"></h3>
+<h3 align="center"></h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bugameG&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2&custom_title=Languages" height="150" alt="languages graph"  />
 </div>
 
